@@ -5,7 +5,7 @@ Hyundai Verna 1.6 SX,2012,600000,100000,Diesel,Individual,Manual,First Owner
 Datsun RediGO T Option,2017,250000,46000,Petrol,Individual,Manual,First Owner
 Honda Amaze VX i-DTEC,2014,450000,141000,Diesel,Individual,Manual,Second Owner
 Maruti Alto LX BSIII,2007,140000,125000,Petrol,Individual,Manual,First Owner
-Hyundai Xcent 1.2 Kappa S,2016,550000,25000,Petrol,Individual,Manual,First Owner
+Hyundai Xcent 1.2 Kappa S,,550000,25000,Petrol,Individual,Manual,First Owner
 Tata Indigo Grand Petrol,2014,240000,60000,Petrol,Individual,Manual,Second Owner
 Hyundai Creta 1.6 VTVT S,2015,850000,25000,Petrol,Individual,Manual,First Owner
 Maruti Celerio Green VXI,2017,365000,78000,CNG,Individual,Manual,First Owner
@@ -17,7 +17,7 @@ Maruti Wagon R LXI Minor,2007,135000,50000,Petrol,Individual,Manual,First Owner
 Hyundai Verna 1.6 SX,2012,600000,100000,Diesel,Individual,Manual,First Owner
 Datsun RediGO T Option,2017,250000,46000,Petrol,Individual,Manual,First Owner
 Honda Amaze VX i-DTEC,2014,450000,141000,Diesel,Individual,Manual,Second Owner
-Maruti Alto LX BSIII,2007,140000,125000,Petrol,Individual,Manual,First Owner
+Maruti Alto LX BSIII,,140000,125000,Petrol,Individual,Manual,First Owner
 Hyundai Xcent 1.2 Kappa S,2016,550000,25000,Petrol,Individual,Manual,First Owner
 Tata Indigo Grand Petrol,2014,240000,60000,Petrol,Individual,Manual,Second Owner
 Hyundai Creta 1.6 VTVT S,2015,850000,25000,Petrol,Individual,Manual,First Owner
@@ -29,7 +29,7 @@ Maruti Ciaz VXi Plus,2015,585000,24000,Petrol,Dealer,Manual,First Owner
 Hyundai Venue SX Opt Diesel,2019,1195000,5000,Diesel,Dealer,Manual,First Owner
 Chevrolet Enjoy TCDi LTZ 7 Seater,2013,390000,33000,Diesel,Individual,Manual,Second Owner
 Jaguar XF 2.2 Litre Luxury,2014,1964999,28000,Diesel,Dealer,Automatic,First Owner
-Mercedes-Benz New C-Class 220 CDI AT,2013,1425000,59000,Diesel,Dealer,Automatic,First Owner
+Mercedes-Benz New C-Class 220 CDI AT,2013,1425000,,Diesel,Dealer,Automatic,First Owner
 Maruti Vitara Brezza ZDi Plus AMT,2018,975000,4500,Diesel,Dealer,Automatic,First Owner
 Audi Q5 2.0 TDI,2011,1190000,175900,Diesel,Dealer,Automatic,First Owner
 Honda City V MT,2018,930000,14500,Petrol,Dealer,Manual,First Owner
@@ -47,7 +47,7 @@ Audi Q7 35 TDI Quattro Premium,2009,1250000,78000,Diesel,Dealer,Automatic,Third 
 Hyundai Elantra CRDi S,2012,625000,40000,Diesel,Individual,Manual,First Owner
 Mahindra Scorpio 1.99 S10,2014,1050000,50000,Diesel,Individual,Manual,First Owner
 Honda City i DTEC V,2014,560000,74000,Diesel,Individual,Manual,Second Owner
-Maruti Wagon R VXI BS IV with ABS,2014,290000,64000,Petrol,Individual,Manual,Second Owner
+Maruti Wagon R VXI BS IV with ABS,2014,290000,N/A,Petrol,Individual,Manual,Second Owner
 Maruti Wagon R VXI BS IV,2012,275000,60000,Petrol,Individual,Manual,Second Owner
 Mahindra Scorpio LX,2009,411000,120000,Diesel,Individual,Manual,Second Owner
 Hyundai Santro Xing GLS,2009,150000,79000,Petrol,Individual,Manual,Third Owner
@@ -86,7 +86,7 @@ Nissan Terrano XL,2014,650000,76000,Petrol,Individual,Manual,Second Owner
 Hyundai Grand i10 CRDi Sportz,2015,450000,80000,Diesel,Individual,Manual,First Owner
 Hyundai Elite i20 Diesel Era,2019,650000,25000,Diesel,Individual,Manual,First Owner
 Honda Amaze S i-VTEC,2016,495000,11958,Petrol,Dealer,Manual,First Owner
-Honda Brio S MT,2015,371000,20000,Petrol,Dealer,Manual,First Owner
+Honda Brio S MT,,371000,20000,Petrol,Dealer,Manual,First Owner
 Hyundai Creta 1.6 SX Option,2017,1025000,9000,Petrol,Dealer,Manual,First Owner
 Mercedes-Benz S-Class S 350d Connoisseurs Edition,2017,8150000,6500,Diesel,Dealer,Automatic,First Owner
 Mahindra XUV500 W8 2WD,2015,750000,70000,Diesel,Individual,Manual,First Owner
